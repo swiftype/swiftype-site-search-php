@@ -15,9 +15,9 @@
 
 ## Documentation 📖
 
-Documentation of this repository have been archived [here](docs/Usage.md).
+The documentation for this repository have been [archived](docs/Usage.md).
 
-If you want to find the documentation for up to date version, please visit [https://github.com/elastic/site-search-php](https://github.com/elastic/site-search-php)
+If you want to find the documentation for the latest version, please visit [https://github.com/elastic/site-search-php](https://github.com/elastic/site-search-php).
 
 ## License 📗
 
